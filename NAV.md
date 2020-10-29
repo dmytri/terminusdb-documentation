@@ -1,0 +1,21 @@
+- Home
+  - [Quickstart Academy](README.md)
+- Tutorials
+  - [TerminusDB Todo](https://dmytri.dev/terminusdb-todoapp)
+- How To
+  - [beta](how-tos/beta.md)
+  - [installation](how-tos/installation.md)
+  - [schema](how-tos/schema.md)
+  - [branch](how-tos/branch.md)
+  - [manage-collaborators](how-tos/manage-collaborators.md)
+  - [synchronise](how-tos/synchronise.md)
+  - [import-data](how-tos/import-data.md)
+  - [other-install](how-tos/other-install.md)
+  - [time-travel](how-tos/time-travel.md)
+  - [index](how-tos/index.md)
+  - [query](how-tos/query.md)
+- Reference
+  - [JavaScript Client](https://terminusdb.github.io/terminusdb-client-js/)
+  - [Python Client](https://terminusdb.github.io/terminusdb-client-python/)
+- About
+  - [Code of Conduct](CODE_OF_CONDUCT.md)

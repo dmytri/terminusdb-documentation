@@ -1,0 +1,14 @@
+{
+  "name": "terminusdb-documentation",
+  "version": "1.0.0",
+  "description": "TerminusDB Documentation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docsify serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.1"
+  }
+}
